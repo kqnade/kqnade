@@ -84,7 +84,7 @@
 <br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 <br />
-<h3>Statics</h3>
+<h3>Statistics</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kqnade&show_icons=true&locale=en&layout=compact" alt="kqnade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true&locale=en" alt="kqnade" /></p>
