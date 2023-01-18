@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm K4nade</h1>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-<h1> </h1>
 <p align="center">
     <img src="https://raw.githubusercontent.com/kqnade/kqnade/main/banner.png">
     <img src="https://readme-typing-svg.herokuapp.com?font=Klee+One&pause=1000&color=23F7D8&center=true&vCenter=true&width=435&lines=Android+Application+Developer;UI%2FUX+Designer;Discord+Bot+Developer;Game+Programer">
