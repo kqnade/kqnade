@@ -9,6 +9,7 @@
 <a href="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/now-playing?open">
     <img src="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/now-playing" width="1080" height=auto alt="Now Playing">
 </a>
+<div style="text-align: center;">
 <table>
   <thead>
     <tr>
@@ -29,6 +30,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 
