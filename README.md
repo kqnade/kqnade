@@ -89,7 +89,7 @@
 <br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 <br />
-<h3>Statistics</h3>
+<h2>Statistics</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kqnade&show_icons=true&locale=en&layout=compact" alt="kqnade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true&locale=en" alt="kqnade" /></p>
@@ -97,3 +97,34 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kqnade&" alt="kqnade" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kqnade" alt="kqnade" /></a> </p>
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<br />
+
+<h2>Introduction</h2>
+2022年から北海道釧路市にある釧路工業高等専門学校に入学し、情報工学を専攻してる学生です。<br />
+I am a student majoring in information engineering at Kushiro National College of Technology in Kushiro, Hokkaido, Japan, starting in 2022. <br />
+<br />
+本名は「百瀬 奏」(Momose Kanato)といいます。<br />
+His real name is Momose Kanato.<br />
+<br />
+Java, Kotlin, JavaScript, TypeScriptなどが好きでDiscordのBotを作ったりしています。<br />
+I like Java, Kotlin, JavaScript, TypeScript, etc. and I make Discord bots.<br />
+<br />
+ネット上では「佑月 天音」(Yuzuki Sorane)と名乗っていたりします。<br />
+I sometimes call myself Yuzuki Sorane on the Internet.<br />
+<br />
+観葉植物やコーヒーが好きです。<br />
+I like houseplants and coffee.<br />
+<br />
+釧路工業高等専門学校の寮に住んでいます。<br />
+I live in a dormitory at Kushiro National College of Technology.<br />
+<br />
+写真やプラモデル、麻雀などの情報工学系以外の部活やサイバーセキュリティなどの同好会に所属しています。<br />
+I belong to a club other than the information engineering club, such as photography, plastic models, and mahjong, and a circle such as cybersecurity.<br />
+<br />
+マークダウンはhtml記法を多用するタイプです。<br />
+I use a lot of html notation in Markdown.<br />
+<br />
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
