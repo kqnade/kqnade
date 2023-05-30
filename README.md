@@ -94,7 +94,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true&locale=ja" alt="kqnade" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/waketime?username=kqnade&locale=ja" alt="kqnade" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=kqnade&locale=ja&layout=compact" alt="kqnade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kqnade&" alt="kqnade" /></p>
 
