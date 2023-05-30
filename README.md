@@ -94,9 +94,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true&locale=ja" alt="kqnade" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=kqnade" alt="kqnade" /></p>
-
-<p>[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kqnade)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kqnade)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kqnade" alt="kqnade" /></a> </p>
 <br />
