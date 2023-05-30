@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/kqnade/kqnade/main/banner.png">
     <img src="https://readme-typing-svg.herokuapp.com?font=Klee+One&pause=1000&color=23F7D8&center=true&vCenter=true&width=435&lines=Android+Application+Developer;UI%2FUX+Designer;Discord+Bot+Developer;Game+Programer">
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <h4>Now Playing (Spotify)</h4>
 <div style="text-align: center;">
 <a href="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/now-playing?open">
@@ -31,7 +31,7 @@
   </tbody>
 </table>
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 
 
 <p align="left">
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <h3>💻 IDEs/Editors</h3>
 <p>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
@@ -87,7 +87,7 @@
 </p>
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <br />
 <h2>Statistics</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kqnade&show_icons=true&locale=en&layout=compact" alt="kqnade" /></p>
@@ -98,15 +98,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kqnade" alt="kqnade" /></a> </p>
 <br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <br />
 
 <h2>Introduction</h2>
 2022年から北海道釧路市にある釧路工業高等専門学校に入学し、情報工学を専攻してる学生です。<br />
 I am a student majoring in information engineering at Kushiro National College of Technology in Kushiro, Hokkaido, Japan, starting in 2022. <br />
-<br />
-本名は「百瀬 奏」(Momose Kanato)といいます。<br />
-His real name is Momose Kanato.<br />
 <br />
 Java, Kotlin, JavaScript, TypeScriptなどが好きでDiscordのBotを作ったりしています。<br />
 I like Java, Kotlin, JavaScript, TypeScript, etc. and I make Discord bots.<br />
@@ -120,11 +117,11 @@ I like houseplants and coffee.<br />
 釧路工業高等専門学校の寮に住んでいます。<br />
 I live in a dormitory at Kushiro National College of Technology.<br />
 <br />
-写真やプラモデル、麻雀などの情報工学系以外の部活やサイバーセキュリティなどの同好会に所属しています。<br />
-I belong to a club other than the information engineering club, such as photography, plastic models, and mahjong, and a circle such as cybersecurity.<br />
+プラモデル、麻雀などの情報工学系以外の部活やサイバーセキュリティなどの同好会に所属しています。<br />
+I belong to a club other than the information engineering club, such as plastic models, and mahjong, and a circle such as cybersecurity.<br />
 <br />
 マークダウンはhtml記法を多用するタイプです。<br />
 I use a lot of html notation in Markdown.<br />
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
