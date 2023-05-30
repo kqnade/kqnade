@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K4nade</h1>
-<img src="https://github.com/kqnade/kqnade/blob/main/1.gif">
+<img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <p align="center">
     <img src="https://raw.githubusercontent.com/kqnade/kqnade/main/banner.png">
     <img src="https://readme-typing-svg.herokuapp.com?font=Klee+One&pause=1000&color=23F7D8&center=true&vCenter=true&width=435&lines=Android+Application+Developer;UI%2FUX+Designer;Discord+Bot+Developer;Game+Programer">
