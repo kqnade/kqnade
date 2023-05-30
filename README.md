@@ -92,9 +92,9 @@
 <h2>Statistics</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kqnade&show_icons=true&locale=ja&lang-count=10&layout=donut" alt="kqnade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true&locale=ja" alt="kqnade" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true&locale=ja" alt="kqnade" /></p>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kqnade)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kqnade)](https://github.com/anuraghazra/github-readme-stats" alt="kqnade" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kqnade" alt="kqnade" /></a> </p>
 <br />
