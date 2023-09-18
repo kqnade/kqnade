@@ -102,9 +102,6 @@
 <br />
 
 <h2>Introduction</h2>
-2022年から北海道釧路市にある釧路工業高等専門学校に入学し、情報工学を専攻してる学生です。<br />
-I am a student majoring in information engineering at Kushiro National College of Technology in Kushiro, Hokkaido, Japan, starting in 2022. <br />
-<br />
 Java, Kotlin, JavaScript, TypeScriptなどが好きでDiscordのBotを作ったりしています。<br />
 I like Java, Kotlin, JavaScript, TypeScript, etc. and I make Discord bots.<br />
 <br />
@@ -113,9 +110,6 @@ I sometimes call myself Yuzuki Sorane on the Internet.<br />
 <br />
 観葉植物やコーヒーが好きです。<br />
 I like houseplants and coffee.<br />
-<br />
-釧路工業高等専門学校の寮に住んでいます。<br />
-I live in a dormitory at Kushiro National College of Technology.<br />
 <br />
 プラモデル、麻雀などの情報工学系以外の部活やサイバーセキュリティなどの同好会に所属しています。<br />
 I belong to a club other than the information engineering club, such as plastic models, and mahjong, and a circle such as cybersecurity.<br />
