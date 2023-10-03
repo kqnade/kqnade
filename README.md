@@ -90,7 +90,7 @@
 <img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <br />
 <h2>Statistics</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kqnade&show_icons=true&langs_count=10&layout=donut&hide=pov-ray" alt="kqnade" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kqnade&show_icons=true&langs_count=10&layout=donut&hide=pov-ray&exclude_repo=[PortableEditor-Pub]" alt="kqnade" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true" alt="kqnade" /></p>
 
