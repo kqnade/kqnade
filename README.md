@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K4nade</h1>
+<h1 align="center">Hi 👋, I'm K47de</h1>
 <img width=100% src="https://github.com/kqnade/kqnade/blob/main/1.gif">
 <p align="center">
     <img src="https://raw.githubusercontent.com/kqnade/kqnade/main/banner.png">
