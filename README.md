@@ -18,6 +18,24 @@ Hi 👋, I'm K47de
 <!-- Development stats -->
 <h4>📊 Weekly Development breakdown</h4>
 <!--START_SECTION:waka-->
+
+```rust
+From: 29 May 2023 - To: 03 October 2024
+
+Total Time: 51 hrs 55 mins
+
+Markdown         13 hrs 9 mins   >>>>>>-------------------   25.01 %
+HTML             8 hrs 24 mins   >>>>---------------------   15.98 %
+JavaScript       6 hrs 39 mins   >>>----------------------   12.64 %
+Vue.js           3 hrs 45 mins   >>-----------------------   07.14 %
+Ruby             3 hrs 13 mins   >>-----------------------   06.15 %
+CSS              2 hrs 52 mins   >------------------------   05.47 %
+TeX              2 hrs 28 mins   >------------------------   04.71 %
+Python           2 hrs 8 mins    >------------------------   04.09 %
+POVRay           1 hr 55 mins    >------------------------   03.66 %
+Text             1 hr 27 mins    >------------------------   02.77 %
+```
+
 <!--END_SECTION:waka-->
 
 <img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/img/1.gif">
