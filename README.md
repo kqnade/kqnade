@@ -34,15 +34,15 @@ Other        4 hrs 27 mins   >>>>>>>>>>>>>>-----------   56.39 %
 <!-- Working on -->
 <h4>🔭 I’m currently working on</h4>
 
--   :moon: [CHaserLua](https://github.com/kqnade/CHaserLua) - CHaser written in Lua
+-   :moon: [CHaserLua](https://github.com/CHaserClients/CHaserLua) - CHaser written in Lua
 
 <img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/img/1.gif">
 
 <!-- Future Prijects -->
 <h4>⚡️ Future Projects</h4>
 
--   :earth_asia: [CHaserJS](https://github.com/kqnade/CHaserJS) - CHaser written in JavaScript
--   :milky_way: [CHaserKotlin](https://github.com/kqnade/CHaserKotlin) - CHaser written in Kotlin
+-   :earth_asia: [CHaserJS](https://github.com/CHaserClients/CHaserJS) - CHaser written in JavaScript
+-   :milky_way: [CHaserKotlin](https://github.com/CHaserClients/CHaserKotlin) - CHaser written in Kotlin
 -  :fire: [lc-lang](https://github.com/kqnade/lc-lang) - A simple language for learning logical circuits
 -  :notebook: [bookmarker](https://github.com/kqnade/bookmarker) - A simple cross-platform bookmark manager
 
