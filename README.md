@@ -20,11 +20,11 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
-Total Time: 2 hrs 13 mins
+Total Time: 2 hrs 10 mins
 
-Other        1 hr 7 mins     >>>>>>>>-----------------   33.65 %
+Other        1 hr 7 mins     >>>>>>>>-----------------   33.95 %
 ```
 
 <!--END_SECTION:waka-->
