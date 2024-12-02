@@ -5,9 +5,9 @@ Hi 👋, I'm K47de
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true">
 </picture>
 
--   :pencil2: Lua, JavaScript, Python, Kotlin, C++
+-   :pencil2: Lua, Lisp
 -   :hammer: Node.js, React, React Native
--   :seedling: Learning Go-Language
+-   :seedling: Learning Elixir, Alchemist apprentice 
 -   :earth_americas: I'm from Hokkaido, Japan
 -   :star: [Projects stared by me](https://github.com/kqnade?tab=stars)
 -   :key: GPG Key: [`007F77045DDF7007`](https://github.com/kqnade.gpg)
