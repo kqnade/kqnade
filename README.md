@@ -20,15 +20,13 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Total Time: 1 hr 33 mins
+Total Time: 35 mins
 
-Markdown    35 mins         >>>>>>>>>----------------   37.74 %
-TeX         28 mins         >>>>>>>------------------   29.91 %
-C           17 mins         >>>>>--------------------   18.38 %
-Makefile    12 mins         >>>----------------------   13.42 %
-sshconfig   0 secs          -------------------------   00.55 %
+C          20 mins         >>>>>>>>>>>>>>>----------   58.34 %
+Makefile   12 mins         >>>>>>>>>----------------   35.73 %
+Lua        2 mins          >------------------------   05.92 %
 ```
 
 <!--END_SECTION:waka-->
