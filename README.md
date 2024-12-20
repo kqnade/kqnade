@@ -13,7 +13,7 @@ Hi 👋, I'm K47de
 -   :key: GPG Key: [`485A496FEC9ADAF7`](https://github.com/kqnade.gpg)
 -   :mailbox: Reach me on [Telegram](https://t.me/k47de) or [Email](mailto:contact@k4na.de)
 
-<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/img/1.gif">
+<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
 
 <!-- Development stats -->
 <h4>📊 Weekly Development breakdown</h4>
@@ -33,7 +33,7 @@ Lua        2 mins          >------------------------   04.39 %
 <!--END_SECTION:waka-->
 
 <!--
-<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/img/1.gif">
+<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
 
 <h4>🔭 I’m currently working on</h4>
 
@@ -49,7 +49,7 @@ Lua        2 mins          >------------------------   04.39 %
 -  :notebook: [bookmarker](https://github.com/kqnade/bookmarker) - A simple cross-platform bookmark manager
 
 <!-- -->
-<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/img/1.gif">
+<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
 <!-- Spotify -->
 <h4>Now Playing (Spotify)</h4>
 <div style="text-align: center;">
@@ -77,4 +77,4 @@ Lua        2 mins          >------------------------   04.39 %
   </tbody>
 </table>
 </div>
-<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/img/1.gif">
+<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
