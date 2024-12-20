@@ -5,7 +5,7 @@ Hi 👋, I'm K47de
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true">
 </picture>
 
--   :pencil2: Lua, Lisp
+-   :pencil2: Lua, Lisp, Nix
 -   :hammer: Node.js, React, React Native
 -   :seedling: Learning Elixir, Alchemist apprentice 
 -   :earth_americas: I'm from Hokkaido, Japan
