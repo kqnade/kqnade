@@ -20,13 +20,13 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-Total Time: 1 hr 5 mins
+Total Time: 53 mins
 
-HTML       35 mins         >>>>>>>>>>>>>>-----------   54.06 %
-C          28 mins         >>>>>>>>>>>--------------   42.50 %
-Makefile   2 mins          >------------------------   03.44 %
+C          28 mins         >>>>>>>>>>>>>------------   52.21 %
+HTML       23 mins         >>>>>>>>>>>--------------   43.57 %
+Makefile   2 mins          >------------------------   04.23 %
 ```
 
 <!--END_SECTION:waka-->
