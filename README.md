@@ -20,11 +20,15 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
-Total Time: 0 secs
+Total Time: 52 mins
 
-No activity tracked
+Makefile    19 mins         >>>>>>>>>----------------   36.86 %
+gitignore   13 mins         >>>>>>>------------------   26.50 %
+Bash        9 mins          >>>>>--------------------   18.53 %
+INI         5 mins          >>-----------------------   09.92 %
+Markdown    4 mins          >>-----------------------   08.19 %
 ```
 
 <!--END_SECTION:waka-->
