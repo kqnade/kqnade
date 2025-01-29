@@ -20,13 +20,13 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 January 2025 - To: 27 January 2025
+From: 21 January 2025 - To: 28 January 2025
 
-Total Time: 1 hr 10 mins
+Total Time: 1 hr 16 mins
 
-Markdown   40 mins         >>>>>>>>>>>>>>>----------   58.07 %
-C          26 mins         >>>>>>>>>----------------   37.36 %
-Makefile   3 mins          >------------------------   04.49 %
+Markdown   47 mins         >>>>>>>>>>>>>>>----------   61.68 %
+C          26 mins         >>>>>>>>>----------------   34.15 %
+Makefile   3 mins          >------------------------   04.11 %
 Other      0 secs          -------------------------   00.07 %
 ```
 
