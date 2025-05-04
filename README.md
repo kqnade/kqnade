@@ -20,14 +20,15 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 April 2025 - To: 02 May 2025
+From: 26 April 2025 - To: 03 May 2025
 
-Total Time: 1 hr 58 mins
+Total Time: 1 hr 22 mins
 
-Text        10 mins         >>-----------------------   08.97 %
-sshconfig   10 mins         >>-----------------------   08.47 %
-Bash        2 mins          >------------------------   02.14 %
-Other       1 min           -------------------------   01.29 %
+Text        10 mins         >>>----------------------   12.90 %
+sshconfig   10 mins         >>>----------------------   12.19 %
+Lua         6 mins          >>-----------------------   07.61 %
+Bash        2 mins          >------------------------   03.09 %
+Other       1 min           -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
