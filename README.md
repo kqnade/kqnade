@@ -20,11 +20,14 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 32 mins
 
-No activity tracked
+C++    1 hr 5 mins     >>>>>>>>>>>>>>>>>>-------   71.09 %
+INI    20 mins         >>>>>>-------------------   22.53 %
+HTML   5 mins          >------------------------   05.87 %
+Text   0 secs          -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
