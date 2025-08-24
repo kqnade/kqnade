@@ -20,11 +20,12 @@ Hi 👋, I'm K47de
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 August 2025 - To: 21 August 2025
+From: 16 August 2025 - To: 23 August 2025
 
-Total Time: 0 secs
+Total Time: 20 mins
 
-No activity tracked
+Python     3 mins          >>>>---------------------   16.52 %
+Other      2 mins          >>>----------------------   12.61 %
 ```
 
 <!--END_SECTION:waka-->
