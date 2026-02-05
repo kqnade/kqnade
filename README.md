@@ -1,8 +1,8 @@
 Hi 👋, I'm K47de
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kqnade&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kqnade&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
+    <img align="right" width="50%" src="./profile/stats.svg">
 </picture>
 
 -   :pencil2: Lua, Lisp, Nix
