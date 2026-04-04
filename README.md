@@ -47,31 +47,15 @@ No activity tracked
 
 <!-- -->
 <img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
-<!-- Spotify -->
-<h4>Now Playing (Spotify)</h4>
-<div style="text-align: center;">
-<a href="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/now-playing?open">
-    <img src="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/now-playing" width="1080" height=auto alt="Now Playing">
-</a>
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/top-tracks?i=1&open"><img src="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/top-tracks?i=2&open"><img src="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/top-tracks?i=3&open"><img src="https://spotifynowplaying-52qodbltz-kqnade.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/stats.svg">
+    <img align="center" width="60%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/stats.svg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-tracks.svg">
+    <img align="left" width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-tracks.svg">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
+    <img align="right" width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
+</picture>
