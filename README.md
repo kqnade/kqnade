@@ -53,9 +53,9 @@ No activity tracked
 </picture>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-tracks.svg">
-    <img align="left" width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-tracks.svg">
+    <img width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-tracks.svg">
 </picture>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
-    <img align="right" width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
+    <img width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
 </picture>
