@@ -5,9 +5,9 @@ Hi 👋, I'm K47de
     <img align="right" width="50%" src="./profile/stats.svg">
 </picture>
 
--   :pencil2: Lua, Lisp, Nix
--   :hammer: Node.js, React, React Native
--   :seedling: Learning Elixir
+-   :pencil2: Go, TypeScript, Lua
+-   :hammer: uv, bun, Astro
+-   :seedling: Learning Python, Go, Elixir
 -   :earth_americas: I'm from Hokkaido, Japan
 -   :star: [Projects stared by me](https://github.com/kqnade?tab=stars)
 -   :key: PGP Key: [`F19A8A2277AE1A97`](https://github.com/kqnade.gpg)
