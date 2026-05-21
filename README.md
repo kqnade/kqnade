@@ -14,22 +14,6 @@ Hi 👋, I'm K47de
 -   :mailbox: Reach me on [Email](mailto:contact@k4na.de)
 
 <img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
-
-<!-- Development stats -->
-<h4>📊 Weekly Development breakdown</h4>
-<!--START_SECTION:waka-->
-
-```rust
-From: 12 May 2026 - To: 19 May 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<img width=100% src="https://raw.githubusercontent.com/kqnade/kqnade/refs/heads/main/1.gif">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/stats.svg">
     <img align="center" width="60%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/stats.svg">
