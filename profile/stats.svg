@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">K47de's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 12, Total Commits  (last year) : 1056, Total PRs: 119, Total Issues: 78, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 12, Total Commits  (last year) : 1067, Total PRs: 119, Total Issues: 78, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.15933454829663;
+        stroke-dashoffset: 88.09200429987133;
       }
     }
   
