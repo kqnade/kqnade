@@ -25,3 +25,4 @@ Hi 👋, I'm K47de
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
     <img width="48%" src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/top-artists.svg">
 </picture>
+<img width=100% src="https://raw.githubusercontent.com/kqnade/lastfm-stats/refs/heads/main/output/calendar.svg">
